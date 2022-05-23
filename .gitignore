@@ -1,0 +1,11 @@
+# Directories
+
+Audio/
+
+node_modules/
+
+# File extensions
+*.iml
+*.pem
+*.zip
+
