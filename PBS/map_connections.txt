@@ -46,3 +46,5 @@
 80,South,0,78,North,1
 # Reise Port (81) - Reise Town (80)
 81,South,0,80,North,0
+# Route P-01_2 (83) - Route P-01 (33)
+83,West,18,33,East,0
