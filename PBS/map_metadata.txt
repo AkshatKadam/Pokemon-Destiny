@@ -103,6 +103,13 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]   # Dreidorf Village
+Name = Dreidorf Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 22,16,22
+#-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
 Outdoor = true
@@ -211,6 +218,12 @@ ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
+#-------------------------------
+[042]   # Dreidorf Passage
+Name = Dreidorf Passage
+Outdoor = true
+ShowArea = false
+Bicycle = true
 #-------------------------------
 [044]   # Route 6
 Name = Route 6
@@ -404,6 +417,17 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
+[077]   # Dreidorf Coast
+Name = Dreidorf Coast
+Outdoor = true
+Bicycle = true
+#-------------------------------
+[078]   # Route 301
+Name = Eyjaf Pathway
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
 [079]   # Ibitha City
 Name = Ibitha City
 Outdoor = true
@@ -411,6 +435,18 @@ ShowArea = true
 Bicycle = true
 HealingSpot = 79,85,59
 SnapEdges = true
+#-------------------------------
+[080]   # Reise Town
+Name = Reise Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[081]   # Reise Port
+Name = Reise Port
+Outdoor = true
+ShowArea = true
+Bicycle = true
 #-------------------------------
 [083]   # Route P-01_2
 Name = Route P-01
@@ -421,3 +457,7 @@ SnapEdges = false
 BattleBack = 
 WildCaptureME = Bug catching 3rd.ogg
 Environment = Grass
+#-------------------------------
+[085]   # Henry's Shop
+Name = Henry's Shop
+Name = 
