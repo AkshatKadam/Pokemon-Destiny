@@ -458,6 +458,10 @@ BattleBack =
 WildCaptureME = Bug catching 3rd.ogg
 Environment = Grass
 #-------------------------------
+[084]   # Reise Indoors
+Name = Reise Indoors
+SnapEdges = true
+#-------------------------------
 [085]   # Henry's Shop
 Name = Henry's Shop
 Name = 
