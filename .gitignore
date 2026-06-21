@@ -6,6 +6,9 @@ node_modules/
 
 Design/
 
+# Dev tooling output
+dev_map_dump.txt
+
 # File extensions
 *.iml
 *.pem
