@@ -4,7 +4,7 @@
 StartMoney = 3000
 StartItemStorage = POTION
 Home = 3,7,5,8
-StorageCreator = Werner
+StorageCreator = Bill
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Battle trainer
 WildVictoryBGM = Battle victory wild
@@ -18,7 +18,9 @@ WalkCharset = trainer_POKEMONTRAINER_Ash
 RunCharset = boy_run_Ash
 CycleCharset = boy_bike_Ash
 SurfCharset = boy_surf_Ash
+DiveCharset = boy_surf_Ash
 FishCharset = boy_fish_offset_Ash
+SurfFishCharset = boy_fish_offset_Ash
 #-------------------------------
 [2]
 TrainerType = POKEMONTRAINER_Leaf
@@ -26,4 +28,6 @@ WalkCharset = trainer_POKEMONTRAINER_Leaf
 RunCharset = girl_run
 CycleCharset = girl_bike
 SurfCharset = girl_surf
+DiveCharset = girl_surf
 FishCharset = girl_fish_offset
+SurfFishCharset = girl_fish_offset
