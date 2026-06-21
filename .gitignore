@@ -4,7 +4,12 @@ Audio/
 
 node_modules/
 
-Design/
+# Design docs are local-only by default, EXCEPT the few tracked below.
+Design/*
+!Design/Prologue-Spec.md
+!Design/Prologue-Roster-and-Encounters.md
+!Design/Pokemon-Destiny-HANDOFF.md
+# (Design/dev/, the master .docx, and the world-map image stay local-only.)
 
 # Dev tooling output
 dev_map_dump.txt
