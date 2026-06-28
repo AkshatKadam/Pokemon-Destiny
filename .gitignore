@@ -18,4 +18,8 @@ dev_map_dump.txt
 *.iml
 *.pem
 *.zip
+*.piskel
+
+# Accidental duplicate imports
+* (2).png
 
